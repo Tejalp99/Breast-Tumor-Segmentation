@@ -16,4 +16,10 @@ Accuracy of the model = 0.98
 
 Loss = 0.11
 
+## Possible Improvements:
+1. Can use transfer learning to utilize state-of-the-art model like VGG, Inception, Resnet.
+2. Can use different types of image augmentation like vertical flip, brightness, zoom etc.
+3. Include lovasz loss with higher weightage.
+4. Learn and use Hypercolumns.
+
 
